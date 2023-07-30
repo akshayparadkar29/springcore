@@ -45,7 +45,7 @@ public class SpringcoreApplication implements CommandLineRunner{
 		System.out.println(today);
 		System.out.println(current);
 		System.out.println(book1);
-		System.out.println(book2);
+		//System.out.println(book2);
 		cust.checkBook();
 		cust.setStudent(null);
 	}
